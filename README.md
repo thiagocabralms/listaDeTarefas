@@ -9,4 +9,4 @@ Atalhos de Teclado: Adiciona tarefas pressionando a tecla "Enter".
 
 Clone o repositório:
 
-Visualize o projeto: git clone https://github.com/seu-usuario/lista-de-tarefas.git
+Visualize o projeto: git clone https://thiagocabralms.github.io/listaDeTarefas/
